@@ -1,4 +1,12 @@
-# Arpeggio-UI
+# Arpeggio UI
+======================Presented by SEA group======================
+
+Author: Yuntian
+
+Installation: 
+
+Copy "all" into /res_mods/a.b.c.d(current version)/
+
 作者：SEA group - 云天尽时
 
 解压后把profile文件夹复制到《战舰世界》的根目录，合并同名文件夹。
