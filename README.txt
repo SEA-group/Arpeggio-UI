@@ -4,7 +4,6 @@
 
 Author: Yuntian
 
-Installation: Copy all into /res_mods/a.b.c.d(current version)/
 
 作者：云天尽时
 
@@ -179,6 +178,8 @@ Installation: Copy all into /res_mods/a.b.c.d(current version)/
 8.6更新 修复了设置界面出错的问题
 
 8.7更新 更新了0.9.5.0版本
+
+8.8更新 更新了0.9.6.0版本
 
 ============================================================
 
